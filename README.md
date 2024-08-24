@@ -1,4 +1,4 @@
-# Traffic Volume Predictor and Signal Optimization
+# Optimization Of Traffic Lights
 
 ## Overview
 
